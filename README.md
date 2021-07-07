@@ -4,6 +4,10 @@
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
 - My favorite languages: Java, Kotlin, Javascript (mostly with NodeJS).
 
+### Important note:
+1. This is my new GitHub account. So I don't have any repositories right now.
+2. I don't use this account for repositories. Check out all of my code [here](https://github.com/aaravslab).
+
 #### 👩🏾‍💻 Programming languages that I use:
 
 [<img align="left" alt="Java" width="40px" src="assets/lang/java.png">](https://java.com/)
