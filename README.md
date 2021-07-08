@@ -45,4 +45,4 @@ If you have a question/problem directly relating to one of my projects, you can 
 and private repositories are not counted. Also, I have added this section
 very late, so the previous contributions will not be counted.
 
-[![Ab20zipYT's Github Stats](https://github-readme-stats.vercel.app/api?username=Ab20zipYT)](https://github.com/Ab20zipYT/ab20zipyt)
+[![Ab20zipYT's Github Stats](https://github-readme-stats.vercel.app/api?username=Ab20zipYT&count_private=true&show_icons=true&custom_title=Ab20zipYT's%20GitHub%20Stats&include_all_commits=true)](https://github.com/Ab20zipYT/ab20zipyt)
