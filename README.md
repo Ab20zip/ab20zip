@@ -1,12 +1,12 @@
 ## Hi, I’m Ab20zipYT! 👋
-- I’m a 13 y'old developer from India.
+- I’m a 14 y'old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
-- My favorite languages: Java, Kotlin, Javascript (mostly with NodeJS).
+- My favorite languages: Java, Kotlin, Javascript (mostly with NodeJS), PHP.
 
 ### Important note:
 1. This is my new GitHub account. So I don't have any repositories right now.
-2. I don't use this account for repositories. Check out all of my code [here](https://github.com/aaravslab).
+2. I don't use this account for repositories. Check out our official work [here](https://github.com/aaravslab).
 
 #### 👩🏾‍💻 Programming languages that I use:
 
@@ -36,7 +36,7 @@
 <br/>
 
 #### 📫 How to reach me
-You can add me on discord (Ab20zipYT#9086) or join [our Discord Server](https://discord.gg/jsSGFeR).
+You can add me on discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).
 If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
 
 #### 📈 Github Stats
