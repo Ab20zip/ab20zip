@@ -6,7 +6,7 @@
 
 ### Important note:
 1. This is my new GitHub account. So I don't have any repositories right now.
-2. I don't use this account for repositories. Check out our official work [here](https://github.com/aaravslab).
+2. I don't use this account for repositories. Check out our official work [here](https://github.com/aaravlab).
 
 #### 👩🏾‍💻 Programming languages that I use:
 
