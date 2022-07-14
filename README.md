@@ -1,5 +1,5 @@
 ## Hi, I’m Ab20zipYT! 👋
-- I’m a 14 y'old developer from India. 
+- I’m a 14 y'old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
 - My favorite languages: Java, Kotlin, Javascript (mostly with NodeJS), PHP.
