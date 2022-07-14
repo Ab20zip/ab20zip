@@ -15,7 +15,7 @@
 [<img align="left" alt="Javascript" width="40px" src="assets/lang/js.png">](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="PHP" width="40px" src="assets/lang/php.png">](https://www.php.net/)
 [<img align="left" alt="Python" width="40px" src="assets/lang/python.png">](https://www.python.org/)
-[<img align="left" alt="C Sharp/C#" width="36px" height="40px" src="assets/lang/csharp.png">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img align="left" alt="C#" width="36px" height="40px" src="assets/lang/csharp.png">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img align="left" alt="C++" width="36px" height="40px" src="assets/lang/c++.png">](https://en.wikipedia.org/wiki/C%2B%2B)
 
 <br/>
@@ -36,8 +36,8 @@
 <br/>
 
 #### 📫 How to reach me
-You can add me on discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).
-If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
+You can add me on discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
+If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.<br/>
 My email address for communication: aaravslab.help@gmail.com
 
 #### 📈 Github Stats
