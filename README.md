@@ -38,6 +38,7 @@
 #### 📫 How to reach me
 You can add me on discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).
 If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
+My email address for communication: aaravslab.help@gmail.com
 
 #### 📈 Github Stats
 
