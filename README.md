@@ -44,8 +44,6 @@
 - [How to get a Rainbow Sheep in Minecraft - Aarav&#39;s Lab](https://www.youtube.com/watch?v=7acrwFBJwFk)
 <!-- YouTube:END -->
 
-<br/>
-<br/>
 
 #### 📫 How to reach me
 You can add me on discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
