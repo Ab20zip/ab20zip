@@ -37,6 +37,11 @@
 
 #### ▶️ Latest YouTube Videos
 <!-- YouTube:START -->
+- [How to make a Li-Fi device at Home | Easy and Simple Demonstration for Beginners - Aarav&#39;s Lab](https://www.youtube.com/watch?v=5B4tB-_cHoY)
+- [How to Build an EGG FARM in Minecraft! 🔥 |  Fast and Easy to Build | Aarav&#39;s Lab](https://www.youtube.com/watch?v=LEUaY03ANk4)
+- [How to Build a COBBLESTONE GENERATOR in Minecraft! 🔥 | Super Easy Tutorial | Aarav&#39;s Lab](https://www.youtube.com/watch?v=UxsNRkIWSvU)
+- [How to Build a SECRET REDSTONE DOOR! 🔥 - Aarav&#39;s Lab](https://www.youtube.com/watch?v=u8w7Ke5BTOs)
+- [How to get a Rainbow Sheep in Minecraft - Aarav&#39;s Lab](https://www.youtube.com/watch?v=7acrwFBJwFk)
 <!-- YouTube:END -->
 
 <br/>
