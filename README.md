@@ -1,4 +1,4 @@
-## Hi, I’m Ab20zipYT! 👋
+## Hi, I’m Ab20zipYT! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 - I’m a 14 y'old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
