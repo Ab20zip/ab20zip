@@ -6,7 +6,7 @@
 
 ### Important note:
 1. This is my new GitHub account. So I don't have any repositories right now.
-2. I don't use this account for repositories. Check out our official work [here](https://github.com/aaravslab).
+2. I don't use this account for repositories. Check out our official work [here](https://github.com/electrosoftllc).
 
 #### 👩🏾‍💻 Programming languages that I use:
 
@@ -48,7 +48,7 @@
 #### 📫 How to reach me
 You can add me on Discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
 If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.<br/>
-Email address for communication: [aaravslab.help@gmail.com](mailto:aaravslab.help@gmail.com).
+Email address for communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
 
 #### 📈 Github Stats
 
