@@ -46,7 +46,7 @@
 
 
 #### 📫 How to reach me
-You can add me on Discord (Ab20zipYT#9086) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
+You can add me on Discord (ab20zipyt) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
 If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.<br/>
 Email address for communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
 
