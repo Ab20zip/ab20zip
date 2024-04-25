@@ -1,14 +1,16 @@
 ## Hi, I’m Ab20zipYT! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
-- I’m a 16 y'old developer from India.
+- I’m a 16-year-old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
-- My favorite languages: Java, Kotlin, Javascript (mostly with NodeJS), PHP.
+- My favorite languages: are Java, Kotlin, Javascript (mostly with NodeJS), and PHP.
+- Most of my official work can be found [here](https://github.com/electrosoftllc).
 
-### Important note:
-1. This is my new GitHub account. So I don't have any repositories right now.
-2. I don't use this account for repositories. Check out our official work [here](https://github.com/electrosoftllc).
+#### 👉 Follow Me
+[![YouTube Badge](https://img.shields.io/badge/-Ab20zipYT-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ab20zipyt?sub_confirmation=1)](https://www.youtube.com/@ab20zipyt?sub_confirmation=1)
+[![Instagram Badge](https://img.shields.io/badge/-ab20zipyt-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ab20zipyt/)](https://instagram.com/ab20zipyt/)
+[![Facebook Badge](https://img.shields.io/badge/-ab20zipyt-1877f2?style=flat-square&logo=facebook&link=https://www.facebook.com/ab20zipyt/)](https://www.facebook.com/ab20zipyt/)
 
-#### 👩🏾‍💻 Programming languages that I use:
+#### 👩🏾‍💻 Programming Languages I Use
 
 [<img align="left" alt="Java" width="40px" src="assets/lang/java.png">](https://java.com/)
 [<img align="left" alt="Kotlin" width="40px" src="assets/lang/kotlin.png">](https://kotlinlang.org/)
@@ -21,7 +23,7 @@
 <br/>
 <br/>
 
-#### 🌠 Tools and technologies that I use:
+#### 🌠 Tools and Technologies I Use
 
 [<img align="left" alt="IntelliJ IDEA" width="40px" src="assets/tools/intellij.png">](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Gradle" width="40px" src="assets/tools/gradle.png">](https://gradle.org/)
@@ -45,15 +47,16 @@
 <!-- YouTube:END -->
 
 
-#### 📫 How to reach me
-You can add me on Discord (ab20zipyt) or join [our official Discord Server](https://discord.gg/jsSGFeR).<br/>
-If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.<br/>
-Email address for communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
+#### 📫 How to Reach Me
+- You can add me on Discord (ab20zipyt) or join [our official Discord Server](https://discord.gg/jsSGFeR).
+- If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
+- Email address for official communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
 
-#### 📈 Github Stats
+#### 📈 GitHub Info
+[![Ab20zipYT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab20zipyt&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/ab20zipyt)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab20zipyt&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/ab20zipyt)
 
-**NOTE:** Some stats may be incorrect as contributions to organizations
-and private repositories are not counted. Also, I have added this section
-very late, so the previous contributions will not be counted.
+<br/>
+<br/>
 
-[![Ab20zipYT's Github Stats](https://github-readme-stats.vercel.app/api?username=Ab20zipYT&count_private=true&show_icons=true&custom_title=Ab20zipYT's%20GitHub%20Stats&include_all_commits=true)](https://github.com/Ab20zipYT/ab20zipyt)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ab20zipyt.ab20zipyt)
