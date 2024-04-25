@@ -1,14 +1,18 @@
 ## Hi, I’m Ab20zipYT! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
+[![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=yellow)](https://en.wikipedia.org/wiki/homo_sapiens)
+[![Status](https://img.shields.io/badge/Life_Status-Stable-success?style=flat-square&logo=leaflet&logoColor=green)](https://en.wikipedia.org/wiki/Life)
+[![OS](https://img.shields.io/badge/OS-Windows-08a1f7?style=flat-square&logo=windows&logoColor=03c1f4)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - I’m a 16-year-old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
 - My favorite languages: are Java, Kotlin, Javascript (mostly with NodeJS), and PHP.
 - Most of my official work can be found [here](https://github.com/electrosoftllc).
 
-#### 👉 Follow Me
-[![YouTube Badge](https://img.shields.io/badge/-Ab20zipYT-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ab20zipyt?sub_confirmation=1)](https://www.youtube.com/@ab20zipyt?sub_confirmation=1)
+#### 👉 Social Links
+[![YouTube Badge](https://img.shields.io/badge/-@Ab20zipYT-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ab20zipyt?sub_confirmation=1)](https://www.youtube.com/@ab20zipyt?sub_confirmation=1)
 [![Instagram Badge](https://img.shields.io/badge/-ab20zipyt-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ab20zipyt/)](https://instagram.com/ab20zipyt/)
 [![Facebook Badge](https://img.shields.io/badge/-ab20zipyt-1877f2?style=flat-square&logo=facebook&link=https://www.facebook.com/ab20zipyt/)](https://www.facebook.com/ab20zipyt/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6613--7674-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6613-7674)
 
 #### 👩🏾‍💻 Programming Languages I Use
 
@@ -23,7 +27,7 @@
 <br/>
 <br/>
 
-#### 🌠 Tools and Technologies I Use
+#### ⚡ Technologies and Tools I Use
 
 [<img align="left" alt="IntelliJ IDEA" width="40px" src="assets/tools/intellij.png">](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Gradle" width="40px" src="assets/tools/gradle.png">](https://gradle.org/)
@@ -36,6 +40,10 @@
 
 <br/>
 <br/>
+
+#### 🟢 Currently Working On
+
+[![Fully Threaded](https://svg.bookmark.style/api?url=https://github.com/electrosoftllc/fully-threaded)](https://github.com/electrosoftllc/fully-threaded)
 
 #### ▶️ Latest YouTube Videos
 <!-- YouTube:START -->
@@ -53,10 +61,8 @@
 - Email address for official communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
 
 #### 📈 GitHub Info
-[![Ab20zipYT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab20zipyt&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/ab20zipyt)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab20zipyt&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/ab20zipyt)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab20zipyt&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/ab20zipyt)
-
-<br/>
-<br/>
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ab20zipYT)](https://github.com/ab20zipyt)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ab20zipyt.ab20zipyt)
