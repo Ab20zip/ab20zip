@@ -2,6 +2,7 @@
 [![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=yellow)](https://en.wikipedia.org/wiki/homo_sapiens)
 [![Status](https://img.shields.io/badge/Life_Status-Stable-success?style=flat-square&logo=leaflet&logoColor=green)](https://en.wikipedia.org/wiki/Life)
 [![OS](https://img.shields.io/badge/OS-Windows-08a1f7?style=flat-square&logo=windows&logoColor=03c1f4)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ab20zipyt.ab20zipyt)
 - I’m a 16-year-old developer from India.
 - My pronouns are he/him.
 - My name when pronounced, sounds like "ayy bee. twenty zip. why tea?"
@@ -67,6 +68,4 @@
 #### 📈 GitHub Info
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab20zipyt&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/ab20zipyt)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab20zipyt&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/ab20zipyt)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ab20zipYT)](https://github.com/ab20zipyt)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ab20zipyt.ab20zipyt)
+[![Wakatime Stats](https://wakatime.com/share/@Ab20zipYT/b8550278-7a20-49ff-8aa9-ed06f5352f77.svg)](https://github.com/ab20zipyt)
