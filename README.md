@@ -46,7 +46,8 @@
 
 #### 🟢 Currently Working On
 
-[![Fully Threaded](https://svg.bookmark.style/api?url=https://github.com/electrosoftllc/fully-threaded)](https://github.com/electrosoftllc/fully-threaded)
+[![FullyThreaded](https://svg.bookmark.style/api?url=https://github.com/electrosoftllc/fully-threaded)](https://github.com/electrosoftllc/fully-threaded)
+[![AntiItemDrop](https://svg.bookmark.style/api?url=https://github.com/electrosoftllc/anti-item-drop)](https://github.com/electrosoftllc/anti-item-drop)
 
 #### ▶️ Latest YouTube Videos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img width="140px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
