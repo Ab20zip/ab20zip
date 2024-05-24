@@ -68,4 +68,4 @@
 #### 📈 GitHub Info
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab20zipyt&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/ab20zipyt)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab20zipyt&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/ab20zipyt)
-[![Wakatime Stats](https://wakatime.com/share/@Ab20zipYT/b8550278-7a20-49ff-8aa9-ed06f5352f77.svg)](https://github.com/ab20zipyt)
+[![Wakatime Stats](https://wakatime.com/share/@Ab20zipYT/2d3b4556-5b5f-4730-bd88-653030079827.svg)](https://github.com/ab20zipyt)
