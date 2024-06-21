@@ -13,9 +13,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
-              uses: actions/checkout@v4
+              uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
+              
             - name: Get YT Videos
-              uses: gautamkrishnar/blog-post-workflow@v1
+              uses: gautamkrishnar/blog-post-workflow@1e7fef0d7fc3278fb29010e6b08e7cf697866a85 # v1
               with:
                   readme_path: "./README.md"
                   comment_tag_name: "YOUTUBE"
