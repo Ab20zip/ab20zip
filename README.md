@@ -1,7 +1,7 @@
 ## Hi, I’m Ab20zip! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
-[![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=yellow)](https://en.wikipedia.org/wiki/homo_sapiens)
-[![Status](https://img.shields.io/badge/Life_Status-Stable-success?style=flat-square&logo=leaflet&logoColor=green)](https://en.wikipedia.org/wiki/Life)
-[![OS](https://img.shields.io/badge/OS-Windows-08a1f7?style=flat-square&logo=windows&logoColor=03c1f4)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![Species](https://img.shields.io/badge/Species-Homo%20Sapiens-8a2be2)](https://en.wikipedia.org/wiki/Human)
+[![Status](https://img.shields.io/badge/Life%20Status-Stable-success)](https://en.wikipedia.org/wiki/Life)
+[![OS](https://img.shields.io/badge/OS-Arch%20Linux-blue)](https://archlinux.org)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ab20zip.Ab20zip)
 - I’m a 16-year-old developer from India.
 - My pronouns are he/him.
@@ -28,7 +28,7 @@
 [<img align="left" alt="Javascript" width="40px" src="assets/lang/js.png">](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="PHP" width="40px" src="assets/lang/php.png">](https://www.php.net/)
 [<img align="left" alt="Python" width="40px" src="assets/lang/python.png">](https://www.python.org/)
-[<img align="left" alt="C#" width="36px" height="40px" src="assets/lang/csharp.png">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img align="left" alt="C#" width="36px" height="40px" src="assets/lang/csharp.png">](https://en.wikipedia.org/wiki/C%20Sharp%20(programming%20language))
 [<img align="left" alt="C++" width="36px" height="40px" src="assets/lang/c++.png">](https://en.wikipedia.org/wiki/C%2B%2B)
 
 <br/>
@@ -73,4 +73,4 @@
 #### 📈 GitHub Info
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ab20zip&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/Ab20zip)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/Ab20zip)
-[![Wakatime Stats](https://wakatime.com/share/@Ab20zip/420c9576-fd98-41ba-b84e-03ba5ac2ebe3.svg)](https://github.com/Ab20zip)
+[![WakaTime Stats](https://wakatime.com/share/@Ab20zip/420c9576-fd98-41ba-b84e-03ba5ac2ebe3.svg)](https://github.com/Ab20zip)
