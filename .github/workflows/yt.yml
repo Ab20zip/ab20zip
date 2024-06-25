@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         strategy:
             matrix:
-                locale: [ 'en', 'bn', 'hi' ]
+                readme: [ "README.md", "README_bn.md", "README_hi.md" ]
         steps:
             -   name: Checkout
                 uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
@@ -21,7 +21,7 @@ jobs:
             -   name: Update README files
                 uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b # v1
                 with:
-                    readme_path: ${{ matrix.locale == 'en' && './README.md' || join('./README_', join(matrix.locale, '.md')) }}
+                    readme_path: ${{ matrix.readme }}
                     comment_tag_name: "YOUTUBE"
                     feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUvyLhIvcoJAFjfQfpnn4mw"
                     custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
