@@ -18,7 +18,7 @@ jobs:
             -   name: Update README files
                 uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b # v1
                 with:
-                    readme_path: './README.md', './README_bn.md', './README_hi.md'
+                    readme_path: "./README.md, ./README_bn.md, ./README_hi.md"
                     comment_tag_name: "YOUTUBE"
                     feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUvyLhIvcoJAFjfQfpnn4mw"
                     custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
