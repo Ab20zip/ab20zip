@@ -21,6 +21,13 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6613--7674-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6613-7674)
 
+#### 📈 My Coding Stats
+
+| <a href="https://github.com/Ab20zip"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Aarav's GitHub Stats" /></a> | <a href="https://github.com/Ab20zip"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+[![WakaTime Stats](https://wakatime.com/share/@Ab20zip/4d676f9b-d0fb-4852-bcd0-52a355f2a1f2.svg)](https://github.com/Ab20zip)
+
 #### 👩🏾‍💻 Programming Languages I Use
 
 [<img align="left" alt="Java" width="40px" src="assets/lang/java.png">](https://java.com/)
@@ -50,8 +57,13 @@
 
 #### 🟢 Currently Working On
 
-[![Concurrentia](https://svg.bookmark.style/api?url=https://github.com/Altiran/concurrentia)](https://github.com/Altiran/concurrentia)
-[![AntiItemDrop](https://svg.bookmark.style/api?url=https://github.com/Altiran/anti-item-drop)](https://github.com/Altiran/anti-item-drop)
+[![Concurrentia](https://github-readme-stats.vercel.app/api/pin/?username=Altiran&show_owner=true&repo=concurrentia)](https://github.com/Altiran/concurrentia)
+[![Concurrentia](https://github-readme-stats.vercel.app/api/pin/?username=Altiran&show_owner=true&repo=anti-item-drop)](https://github.com/Altiran/anti-item-drop)
+
+#### 📫 How to Reach Me
+- You can add me on Discord (ab20zip) or join [our official Discord Server](https://discord.gg/jsSGFeR).
+- If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
+- Email address for official communication: [contact@altiran.com](mailto:contact@altiran.com).
 
 #### ▶️ Latest YouTube Videos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img width="140px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
@@ -63,14 +75,3 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0"><img width="140px" src="https://i.ytimg.com/vi/tvJOP1T-Lk0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0">A Normal Bedwars Game</a><br/>Jul 21, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
-
-
-#### 📫 How to Reach Me
-- You can add me on Discord (ab20zip) or join [our official Discord Server](https://discord.gg/jsSGFeR).
-- If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
-- Email address for official communication: [contact@altiran.com](mailto:contact@altiran.com).
-
-#### 📈 GitHub Info
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ab20zip&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse)](https://github.com/Ab20zip)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&theme=chartreuse&langs_count=8)](https://github.com/Ab20zip)
-[![WakaTime Stats](https://wakatime.com/share/@Ab20zip/420c9576-fd98-41ba-b84e-03ba5ac2ebe3.svg)](https://github.com/Ab20zip)
