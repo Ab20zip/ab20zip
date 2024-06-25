@@ -8,14 +8,21 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ab20zip.ab20zip)
 
-- My real name is Aarav Bundela (pronounced like Aah-rahv Boon-day-la).
-- I’m a 16-year-old developer from India.
-- My pronouns are he/him.
-- My username, when pronounced, sounds like "Ayy bee twenty zip."
-- My favorite languages are Java, Kotlin, PHP, TypeScript, and JavaScript.
-- I also know Python, Go, Rust, C++, C# and a bit of C and Ruby.
-- Ask me about anything [here](https://github.com/Ab20zip/ab20zip/issues).
-- Most of my official work can be found [here](https://github.com/Altiran).
+- 📛 My real name is Aarav Bundela (pronounced like Aah-rahv Boon-day-la).
+
+- 🧑‍🎓 I’m a 16-year-old developer from India.
+
+- 🗣️ My pronouns are he/him.
+
+- 🎤 My username, when pronounced, sounds like "Ayy bee twenty zip."
+
+- 💖 My favorite languages are Java, Kotlin, PHP, TypeScript, and JavaScript.
+
+- 🧠 I also know Python, Go, Rust, C++, C# and a bit of C and Ruby.
+
+- ❓ Ask me about anything [here](https://github.com/Ab20zip/ab20zip/issues).
+
+- 🏢 Most of my official work can be found [here](https://github.com/Altiran).
 
 #### 👉 My Social Media
 
