@@ -6,7 +6,7 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 ![Life Status](https://img.shields.io/badge/Life%20Status-Stable-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ab20zip.ab20zip)
+![Visitors](https://komarev.com/ghpvc/?username=Ab20zip&label=Visitors)
 
 - 📛 My real name is Aarav Bundela (pronounced like Aah-rahv Boon-day-la).
 

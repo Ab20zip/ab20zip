@@ -6,7 +6,7 @@
 ![জীবনের অবস্থা](https://img.shields.io/badge/জীবনের%20অবস্থা-স্থিতিশীল-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ab20zip.ab20zip)
+![Visitors](https://komarev.com/ghpvc/?username=Ab20zip&label=দর্শক)
 
 - 📛 আমার আসল নাম আরভ বুন্দেলা।
 
