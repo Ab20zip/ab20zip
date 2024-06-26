@@ -2,7 +2,7 @@
 
 ## नमस्ते, मेरा नाम Ab20zip है! 🙏
 
-![प्रजातियाँ](https://img.shields.io/badge/प्रजातियाँ-होमो%20सेपियन्स-08deaa)
+![प्रजाति](https://img.shields.io/badge/प्रजाति-होमो%20सेपियन्स-08deaa)
 ![जीवन स्थिति](https://img.shields.io/badge/जीवन%20स्थिति-स्थिर-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
@@ -12,11 +12,13 @@
 
 - 🧑‍🎓 मैं भारत का 16 वर्षीय डेवलपर हूँ।
 
+- 🗣️ मैं एक लड़का हूँ।
+
 - 🎤 जब मेरा उपयोक्तानाम उच्चारित किया जाता है, तो "अय्य बी ट्वेंटी ज़िप" जैसा लगता है।
 
 - 💖 मेरी पसंदीदा प्रोग्रामिंग भाषाएँ Java, Kotlin, PHP, TypeScript और JavaScript हैं।
 
-- 🧠 मैं Python, Go, Rust, C++, C# और थोड़ा सा C और Ruby भी जानता हूं।
+- 🧠 मैं Python, Go, Rust, C++, C# और थोड़ा सा C और Ruby भी जानता हूँ।
 
 - ❓ आप मुझसे [यहाँ](https://github.com/Ab20zip/ab20zip/issues) किसी भी चीज़ के बारे में पूछ सकते हैं।
 
@@ -37,15 +39,15 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6613--7674-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6613-7674)
 
-#### 🚀 प्रोग्रामिंग का मेरा ब्रह्मांड
+#### 🚀 प्रोग्रामिंग की मेरी दुनिया
 
 <table>
     <tr>
         <th>
-            <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ab20zip के GitHub आँकड़े" />
+            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=hi" alt="Ab20zip के GitHub आँकड़े" />
         </th>
         <th>
-            <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true" alt="Ab20zip की सर्वाधिक प्रयुक्त भाषाएँ" />
+            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true&locale=hi" alt="Ab20zip की सर्वाधिक प्रयुक्त भाषाएँ" />
         </th>
     </tr>
     <tr>

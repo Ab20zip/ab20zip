@@ -3,7 +3,7 @@
 ## নমস্কার, আমার নাম Ab20zip! 🙏
 
 ![প্রজাতি](https://img.shields.io/badge/প্রজাতি-হোমো%20সেপিয়েন্স-08deaa)
-![Life Status](https://img.shields.io/badge/Life%20Status-Stable-success)
+![জীবনের অবস্থা](https://img.shields.io/badge/জীবনের%20অবস্থা-স্থিতিশীল-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ab20zip.ab20zip)
@@ -11,6 +11,8 @@
 - 📛 আমার আসল নাম আরভ বুন্দেলা।
 
 - 🧑‍🎓 আমি ভারতের একজন 16 বছর বয়সী ডেভেলপার।
+
+- 🗣️ আমি একজন ছেলে।
 
 - 🎤 আমার ব্যবহারকারীর নাম, যখন উচ্চারণ করা হয়, তখন মনে হয় "অ্যায় বি টোয়েন্টি জিপ।"
 
@@ -37,15 +39,15 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6613--7674-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6613-7674)
 
-#### 🚀 আমার প্রোগ্রামিং মহাবিশ্ব
+#### 🚀 আমার প্রোগ্রামিং জগত
 
 <table>
     <tr>
         <th>
-            <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=bn" alt="Ab20zip এর GitHub পরিসংখ্যান" />
+            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=bn" alt="Ab20zip এর GitHub পরিসংখ্যান" />
         </th>
         <th>
-            <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true&locale=bn" alt="Ab20zip এর সর্বাধিক ব্যবহৃত ভাষা" />
+            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true&locale=bn" alt="Ab20zip এর সর্বাধিক ব্যবহৃত ভাষা" />
         </th>
     </tr>
     <tr>
