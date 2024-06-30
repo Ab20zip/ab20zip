@@ -44,10 +44,10 @@
 <table>
     <tr>
         <th>
-            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=bn" alt="Ab20zip এর GitHub পরিসংখ্যান" />
+            <img style="display: block; margin: auto;" src="https://github-readme-stats.altiran.vercel.app/api?username=Ab20zip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=bn" alt="Ab20zip এর GitHub পরিসংখ্যান" />
         </th>
         <th>
-            <img style="display: block; margin: auto;" src="https://ab20zip-github-readme-stats.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true&locale=bn" alt="Ab20zip এর সর্বাধিক ব্যবহৃত ভাষা" />
+            <img style="display: block; margin: auto;" src="https://github-readme-stats.altiran.vercel.app/api/top-langs/?username=Ab20zip&layout=compact&hide_border=true&locale=bn" alt="Ab20zip এর সর্বাধিক ব্যবহৃত ভাষা" />
         </th>
     </tr>
     <tr>
