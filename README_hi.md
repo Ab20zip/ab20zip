@@ -6,23 +6,25 @@
 ![जीवन स्थिति](https://img.shields.io/badge/जीवन%20स्थिति-स्थिर-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
-![Visitors](https://komarev.com/ghpvc/?username=Ab20zip&label=कुल%20दर्शक)
+![दर्शक](https://komarev.com/ghpvc/?username=Ab20zip&label=दर्शक)
 
-- 📛 मेरा असली नाम आरव बुंदेला है।
+- 🧑🏽‍💻 मेरा असली नाम आरव बुंदेला है।
 
-- 🧑‍🎓 मैं भारत का 16 वर्षीय डेवलपर हूँ।
+- 🇮🇳 मैं भारत का एक 16 वर्षीय डेवलपर हूँ।
 
-- 🗣️ मैं एक लड़का हूँ।
+- ❤️ मेरी पसंदीदा प्रोग्रामिंग भाषाएँ Kotlin, Java, PHP, TypeScript और JavaScript हैं।
 
-- 🎤 जब मेरा उपयोक्तानाम उच्चारित किया जाता है, तो "अय्य बी ट्वेंटी ज़िप" जैसा लगता है।
+- 💻 मैं Python, Go, Rust, C, C# और थोड़ा सा C++ और Ruby भी जानता हूँ।
 
-- 💖 मेरी पसंदीदा प्रोग्रामिंग भाषाएँ Java, Kotlin, PHP, TypeScript और JavaScript हैं।
+- 🌱 मैं वर्तमान में Swift, Flutter और TensorFlow सीख रहा हूँ।
 
-- 🧠 मैं Python, Go, Rust, C++, C# और थोड़ा सा C और Ruby भी जानता हूँ।
+- 💞 मैं अपने open-source प्रोजेक्ट्स पर सहयोग करना चाह रहा हूँ।
+
+- ✨ मेरा अधिकांश आधिकारिक कार्य [यहाँ](https://github.com/Altiran) पाया जा सकता है।
 
 - ❓ आप मुझसे [यहाँ](https://github.com/Ab20zip/ab20zip/issues) किसी भी चीज़ के बारे में पूछ सकते हैं।
 
-- 🏢 मेरा अधिकांश आधिकारिक कार्य [यहाँ](https://github.com/Altiran) पाया जा सकता है।
+- ⚡ एक मजेदार बात: मेरे यूज़रनेम का उच्चारण "ए बी ट्वेंटी ज़िप" है।
 
 #### 👉 मेरा सोशल मीडिया
 
@@ -59,35 +61,35 @@
 
 #### 🎨 मेरी प्रोग्रामिंग भाषाएँ
 
-<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/java/java.png"></code>
-<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/php/php.png"></code>
-<code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/typescript/typescript.png"></code>
-<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/javascript/javascript.png"></code>
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/python/python.png"></code>
-<code><img height="40" alt="Go" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/go/go.png"></code>
-<code><img height="40" alt="Rust" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/rust/rust.png"></code>
+<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/java/java.png"></code>
+<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/kotlin/kotlin.png"></code>
+<code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/php/php.png"></code>
+<code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/python/python.png"></code>
+<code><img height="40" alt="Go" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/go/go.png"></code>
+<code><img height="40" alt="Rust" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/rust/rust.png"></code>
 
 #### 🛠️ मेरे उपकरण और तकनीकें
 
-<code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/docker/docker.png"></code>
-<code><img height="40" alt="Gradle" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/gradle/gradle.png"></code>
-<code><img height="40" alt="Maven" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/maven/maven.png"></code>
-<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/git/git.png"></code>
+<code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/docker/docker.png"></code>
+<code><img height="40" alt="Gradle" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/gradle/gradle.png"></code>
+<code><img height="40" alt="Maven" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/maven/maven.png"></code>
+<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/git/git.png"></code>
 
 #### 📚 मेरे द्वारा उपयोग किए जाने वाले फ्रेमवर्क, लाइब्रेरी और प्लेटफ़ॉर्म
 
-<code><img height="40" alt="Spring" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/spring/spring.png"></code>
-<code><img height="40" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/laravel/laravel.png"></code>
-<code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" alt="Svelte" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/svelte/svelte.png"></code>
-<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/react/react.png"></code>
-<code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/fe9d0ed57a3db8df887c1c48e3b35c18c91a309d/topics/graphql/graphql.png"></code>
+<code><img height="40" alt="Spring" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/spring/spring.png"></code>
+<code><img height="40" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/laravel/laravel.png"></code>
+<code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="Svelte" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/svelte/svelte.png"></code>
+<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/react/react.png"></code>
+<code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/graphql/graphql.png"></code>
 
 #### 🔨 वे परियोजनाएँ जिनका मैं सक्रिय रूप से विकास कर रहा हूँ
 
 [![Concurrentia](https://github-readme-stats.vercel.app/api/pin/?username=Altiran&show_owner=true&repo=concurrentia)](https://github.com/Altiran/concurrentia)
-[![AntiItemDrop](https://github-readme-stats.vercel.app/api/pin/?username=Altiran&show_owner=true&repo=anti-item-drop)](https://github.com/Altiran/anti-item-drop)
+[![DropStop](https://github-readme-stats.vercel.app/api/pin/?username=Altiran&show_owner=true&repo=drop-stop)](https://github.com/Altiran/drop-stop)
 
 #### 🌐 मेरे साथ जुड़ें
 
@@ -98,14 +100,6 @@
 
 #### ▶️ मेरे नवीनतम यूट्यूब वीडियो
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img width="160px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k">EXTREME CAR DRIVING SIMULATOR GAMEPLAY #1 | 500+ km/h SPEED</a><br/>Dec 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg"><img width="160px" src="https://i.ytimg.com/vi/zR3nFfcIrKg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg">They hackusated me | Ab20zipYT</a><br/>Aug 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM"><img width="160px" src="https://i.ytimg.com/vi/YSYqIiExAOM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM">Uncut bedwars</a><br/>Jul 21, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0"><img width="160px" src="https://i.ytimg.com/vi/tvJOP1T-Lk0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0">A Normal Bedwars Game</a><br/>Jul 21, 2021</td></tr></table>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
 
 <!-- Ab20zip द्वारा ❤️ के साथ बनाया गया -->
