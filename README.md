@@ -63,30 +63,30 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 #### 🎨 My Palette of Programming Languages
 
-<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/java/java.png"></code>
-<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/kotlin/kotlin.png"></code>
-<code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/php/php.png"></code>
-<code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/typescript/typescript.png"></code>
-<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/javascript/javascript.png"></code>
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/python/python.png"></code>
-<code><img height="40" alt="Go" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/go/go.png"></code>
-<code><img height="40" alt="Rust" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/rust/rust.png"></code>
+<code><img height="40" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
+<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" alt="Go" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height="40" alt="Rust" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
 
 #### 🛠️ Tools and Technologies I Employ
 
-<code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/docker/docker.png"></code>
-<code><img height="40" alt="Gradle" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/gradle/gradle.png"></code>
-<code><img height="40" alt="Maven" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/maven/maven.png"></code>
-<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/git/git.png"></code>
+<code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="40" alt="Gradle" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png"></code>
+<code><img height="40" alt="Maven" src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png"></code>
+<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 #### 📚 Frameworks, Libraries and Platforms I Use
 
-<code><img height="40" alt="Spring" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/spring/spring.png"></code>
-<code><img height="40" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/laravel/laravel.png"></code>
-<code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/nodejs/nodejs.png"></code>
-<code><img height="40" alt="Svelte" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/svelte/svelte.png"></code>
-<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/react/react.png"></code>
-<code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/aa4af522f99689a842633bbc7b5c737b03d9fbca/topics/graphql/graphql.png"></code>
+<code><img height="40" alt="Spring" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
+<code><img height="40" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="Svelte" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png"></code>
+<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
 
 #### 🔨 Projects I'm Actively Developing
 
