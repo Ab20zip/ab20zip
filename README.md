@@ -2,7 +2,7 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 ## Hi, I’m Ab20zip! 👋
 
-![Species](https://img.shields.io/badge/Species-Homo%20Sapiens-08deaa)
+![Species](https://img.shields.io/badge/Species-Homo%20Sapiens-00b4d8)
 ![Life Status](https://img.shields.io/badge/Life%20Status-Stable-success)
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
@@ -12,9 +12,9 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 - 🇮🇳 I’m a 16-year-old developer from India.
 
-- ❤️ My favorite languages are Kotlin, Java, PHP, TypeScript, and JavaScript.
+- ❤️ I love working with Kotlin, Java, JavaScript, TypeScript, and PHP.
 
-- 💻 I also know Python, Go, Rust, C, C# and a bit of C++ and Ruby.
+- 💻 I’m also into Rust, Go, Python, C, C++, and have some experience with C# (.NET) and Ruby.
 
 - 🌱 I'm currently learning Swift, Flutter and TensorFlow.
 
