@@ -12,17 +12,17 @@ jobs:
         name: Update latest uploads
         runs-on: ubuntu-latest
         steps:
-            -   name: Checkout
+            -   name: Checkout README files
                 uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
 
             -   name: Update README files
                 uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b # v1
                 with:
-                    readme_path: './README.md, ./README_bn.md, ./README_hi.md'
+                    readme_path: 'README.md, README_hi.md, README_bn.md'
                     comment_tag_name: 'YOUTUBE'
                     feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCUvyLhIvcoJAFjfQfpnn4mw'
-                    custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
+                    custom_tags: 'channelId/yt:channelId/, videoId/yt:videoId/'
                     date_format: 'mmm d, yyyy'
-                    template: '<table><tr><td><a href="$url"><img width="160px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-                    committer_email: '86971097+Ab20zip@users.noreply.github.com'
-                    commit_message: 'Updated YouTube videos!'
+                    template: '<table><tr><td><a href="$url"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>'
+                    committer_email: 'aarav.bundela@outlook.com'
+                    commit_message: 'Update YouTube videos'

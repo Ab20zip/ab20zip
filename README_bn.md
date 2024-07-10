@@ -10,7 +10,7 @@
 
 - 🧑🏽‍💻 আমার আসল নাম আরভ বুন্দেলা।
 
-- 🇮🇳 আমি ভারতের একজন 16 বছর বয়সী ডেভেলপার।
+- 🇮🇳 আমি ভারতের একজন 16 বছর বয়সী ডেভেলপার। 🟧⬜🟩
 
 - ❤️ আমার প্রিয় প্রোগ্রামিং ভাষা হল Kotlin, Java, JavaScript, TypeScript, এবং PHP।
 
@@ -93,22 +93,12 @@
 
 #### 🌐 আমার সাথে সংযোগ করুন
 
-- আপনি Discord (ab20zip) এ আমার সাথে যোগ দিতে পারেন অথবা [আমাদের অফিসিয়াল ডিসকর্ড সার্ভারে](https://dsc.gg/altiran) যোগ
-  দিতে পারেন।
-- আপনার যদি আমার একটি প্রকল্পের সাথে সরাসরি সম্পর্কিত একটি প্রশ্ন/সমস্যা থাকে তবে আপনি সেই সংগ্রহস্থলে একটি সমস্যা খুলতে
-  পারেন।
-- অফিসিয়াল যোগাযোগের জন্য ইমেল ঠিকানা: [aarav.bundela@outlook.com](mailto:aarav.bundela@outlook.com)।
+- আপনি Discord (ab20zip) এ আমার সাথে যোগ দিতে পারেন অথবা [আমাদের Discord server](https://dsc.gg/altiran) join করতে পারেন।
+- আপনি আমাকে [aarav.bundela@outlook.com](mailto:aarav.bundela@outlook.com) এ ই-মেল করতে পারেন।
+- আপনার যদি আমার কোন প্রকল্পের সাথে সম্পর্কিত কোন প্রশ্ন বা সমস্যা থাকে, আপনি সেই repository এ একটি issue খুলতে পারেন।
 
 #### ▶️ আমার সর্বশেষ YouTube ভিডিও
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img width="160px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k">EXTREME CAR DRIVING SIMULATOR GAMEPLAY #1 | 500+ km/h SPEED</a><br/>Dec 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg"><img width="160px" src="https://i.ytimg.com/vi/zR3nFfcIrKg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg">They hackusated me | Ab20zipYT</a><br/>Aug 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM"><img width="160px" src="https://i.ytimg.com/vi/YSYqIiExAOM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM">Uncut bedwars</a><br/>Jul 21, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0"><img width="160px" src="https://i.ytimg.com/vi/tvJOP1T-Lk0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0">A Normal Bedwars Game</a><br/>Jul 21, 2021</td></tr></table>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
 
 <!-- Ab20zip দ্বারা ❤️ দিয়ে তৈরি করা -->
