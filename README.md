@@ -95,9 +95,9 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 #### 🌐 Connect with Me
 
-- You may add me on Discord (ab20zip) or join [our official Discord Server](https://discord.gg/jsSGFeR).
+- You may add me on Discord (ab20zip) or join [our official Discord Server](https://dsc.gg/altiran).
 - If you have a question/problem directly relating to one of my projects, you can open an issue in that repository.
-- Email address for official communication: [contact@altiran.com](mailto:contact@altiran.com).
+- Email address for official communication: [aarav.bundela@outlook.com](mailto:aarav.bundela@outlook.com).
 
 #### ▶️ My Latest YouTube Videos
 
