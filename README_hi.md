@@ -104,7 +104,8 @@
 
 #### ▶️ मेरे नवीनतम यूट्यूब वीडियो
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x1LIcJcsnPw"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/x1LIcJcsnPw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x1LIcJcsnPw">Minecraft survival world tour</a><br/>Jul 12, 2024</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k">EXTREME CAR DRIVING SIMULATOR GAMEPLAY #1 | 500+ km/h SPEED</a><br/>Dec 9, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/zR3nFfcIrKg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg">They hackusated me | Ab20zipYT</a><br/>Aug 6, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/YSYqIiExAOM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM">Uncut bedwars</a><br/>Jul 21, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/tvJOP1T-Lk0/mqdefault.jpg"></a></td>
