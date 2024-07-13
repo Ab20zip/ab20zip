@@ -100,7 +100,7 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 #### 🌐 Connect with Me
 
-- Feel free to add me on Discord (ab20zip) or join [our awesome Discord server](https://dsc.gg/altiran)!
+- Feel free to add me on Discord ([ab20zip](https://discord.com/users/729950381442072637)) or join [our awesome Discord server](https://dsc.gg/altiran)!
 - Shoot me an e-mail at [aarav.bundela@outlook.com](mailto:aarav.bundela@outlook.com)!
 - Got a question or problem with one of my projects? Just open an issue in the repo!
 
