@@ -46,6 +46,8 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 [![TikTok](https://img.shields.io/badge/-ab20zip-ff0050?style=flat-square&logo=tiktok&logoColor=00f2ea&link=https://www.tiktok.com/@ab20zip)](https://www.tiktok.com/@ab20zip)
 [![WhatsApp](https://img.shields.io/badge/-%2B91_94611_55141-25d366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/919461155141?text=Hi%20Aarav%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Let%27s%20discuss...)](https://wa.me/919461155141?text=Hi%20Aarav%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Let%27s%20discuss...)
 [![Telegram](https://img.shields.io/badge/-Ab20zip-26a5e4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ab20zip)](https://t.me/Ab20zip)
+[![Guilded](https://img.shields.io/badge/-Ab20zip-f5c400?style=flat-square&logo=guilded&logoColor=white&link=https://www.guilded.gg/u/Ab20zip)](https://www.guilded.gg/u/Ab20zip)
+[![Roblox](https://img.shields.io/badge/-Ab20zip-a1a5a2?style=flat-square&logo=roblox&logoColor=white&link=https://www.roblox.com/users/4435495292/profile)](https://www.roblox.com/users/4435495292/profile)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6613--7674-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6613-7674)
 
 #### 🚀 Journey Through My Code Universe
