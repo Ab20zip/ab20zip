@@ -38,11 +38,10 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 #### 🌐 Social Networks
 [![Discord](https://img.shields.io/badge/-Ab20zip-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/729950381442072637)](https://discord.com/users/729950381442072637)
-[![Facebook](https://img.shields.io/badge/-Ab20zip-1877f2?style=flat-square&logo=facebook&link=https://www.facebook.com/Ab20zip)](https://www.facebook.com/Ab20zip)
 [![Instagram](https://img.shields.io/badge/-Ab20zip-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Ab20zip)](https://instagram.com/Ab20zip)
+[![Facebook](https://img.shields.io/badge/-Ab20zip-1877f2?style=flat-square&logo=facebook&link=https://www.facebook.com/Ab20zip)](https://www.facebook.com/Ab20zip)
 [![Reddit](https://img.shields.io/badge/-ab20zip-ff6314?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/u/ab20zip)](https://www.reddit.com/u/ab20zip)
 [![Telegram](https://img.shields.io/badge/-Ab20zip-26a5e4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ab20zip)](https://t.me/Ab20zip)
-[![WhatsApp](https://img.shields.io/badge/-%2B91_94611_55141-25d366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/919461155141?text=Hi%20Aarav%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Let%27s%20discuss...)](https://wa.me/919461155141?text=Hi%20Aarav%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.%20Let%27s%20discuss...)
 [![X](https://img.shields.io/badge/-Ab20zip-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/Ab20zip)](https://x.com/Ab20zip)
 [![Guilded](https://img.shields.io/badge/-Ab20zip-f5c400?style=flat-square&logo=guilded&logoColor=white&link=https://www.guilded.gg/u/Ab20zip)](https://www.guilded.gg/u/Ab20zip)
 
@@ -52,8 +51,12 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 [![TikTok](https://img.shields.io/badge/-ab20zip-ff0050?style=flat-square&logo=tiktok&logoColor=00f2ea&link=https://www.tiktok.com/@ab20zip)](https://www.tiktok.com/@ab20zip)
 
 #### 💻 Developer Platforms
-[![npm](https://img.shields.io/badge/-ab20zip-cc3534?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/~ab20zip)](https://www.npmjs.com/~ab20zip)
 [![WakaTime](https://img.shields.io/badge/-@Ab20zip-2595ff?style=flat-square&logo=wakatime&logoColor=white&link=https://wakatime.com/@Ab20zip)](https://wakatime.com/@Ab20zip)
+[![npm](https://img.shields.io/badge/-ab20zip-cc3534?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/~ab20zip)](https://www.npmjs.com/~ab20zip)
+
+<a href="https://app.daily.dev/ab20zip">
+    <img src="https://api.daily.dev/devcards/v2/8ckzw2g5WR8EAN85m0U3P.png?r=mse&type=default" width="356" alt="Aarav Bundela's Dev Card"/>
+</a>
 
 #### 🎮 Gaming Platforms
 [![Roblox](https://img.shields.io/badge/-Ab20zipYT-a1a5a2?style=flat-square&logo=roblox&logoColor=white&link=https://www.roblox.com/users/4435495292/profile)](https://www.roblox.com/users/4435495292/profile)
@@ -113,11 +116,6 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 - Want to chat? You can DM me on any of my social media platforms!
 
 ### ▶️ My Latest YouTube Videos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x1LIcJcsnPw"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/x1LIcJcsnPw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x1LIcJcsnPw">Minecraft survival world tour</a><br/>Jul 12, 2024</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/T5sngsQQU5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T5sngsQQU5k">EXTREME CAR DRIVING SIMULATOR GAMEPLAY #1 | 500+ km/h SPEED</a><br/>Dec 9, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/zR3nFfcIrKg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg">They hackusated me | Ab20zipYT</a><br/>Aug 6, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/YSYqIiExAOM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM">Uncut bedwars</a><br/>Jul 21, 2021</td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/tvJOP1T-Lk0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tvJOP1T-Lk0">A Normal Bedwars Game</a><br/>Jul 21, 2021</td></tr></table><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
 
 <!-- MADE WITH ❤️ BY Ab20zip -->
