@@ -153,4 +153,8 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 </table>
 <!-- YOUTUBE:END -->
 
+---
+
+_"Programs must be written for people to read, and only incidentally for machines to execute."_ 🖥️📖 - **Harold Abelson**
+
 <!-- MADE WITH ❤️ BY Ab20zip -->

@@ -2,8 +2,9 @@
     "extends": [
         "config:base",
         ":semanticCommits",
-        ":semanticCommitTypeAll(Deps)",
+        ":semanticCommitTypeAll(deps)",
         ":semanticCommitScopeDisabled",
+        ":maintainLockFilesMonthly",
         ":automergeAll",
         ":automergeBranch",
         ":disableDependencyDashboard",

@@ -151,4 +151,8 @@
 </table>
 <!-- YOUTUBE:END -->
 
+---
+
+_"Programs must be written for people to read, and only incidentally for machines to execute."_ 🖥️📖 - **Harold Abelson**
+
 <!-- Ab20zip द्वारा ❤️ के साथ बनाया गया -->

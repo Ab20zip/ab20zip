@@ -151,4 +151,8 @@
 </table>
 <!-- YOUTUBE:END -->
 
+---
+
+_"Programs must be written for people to read, and only incidentally for machines to execute."_ 🖥️📖 - **Harold Abelson**
+
 <!-- Ab20zip দ্বারা ❤️ দিয়ে তৈরি করা -->
