@@ -6,6 +6,7 @@
 ![OS](https://img.shields.io/badge/OS-WSL-blue)
 ![IDE](https://img.shields.io/badge/IDE-JetBrains-f31199)
 ![दर्शक](https://komarev.com/ghpvc/?username=Ab20zip&label=दर्शक)
+![WakaTime](https://wakatime.com/badge/user/f5004e5a-9052-43e9-a42e-f922f26e3cf4.svg)
 
 - 🧑🏽‍💻 मेरा असली नाम आरव बुंदेला है।
 
