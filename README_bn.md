@@ -40,9 +40,11 @@
 [![Instagram](https://img.shields.io/badge/-Ab20zip-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Ab20zip)](https://instagram.com/Ab20zip)
 [![Facebook](https://img.shields.io/badge/-Ab20zip-1877f2?style=flat-square&logo=facebook&link=https://www.facebook.com/Ab20zip)](https://www.facebook.com/Ab20zip)
 [![Reddit](https://img.shields.io/badge/-ab20zip-ff6314?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/u/ab20zip)](https://www.reddit.com/u/ab20zip)
+[![Quora](https://img.shields.io/badge/-Aarav_Bundela-aa2200?style=flat-square&logo=quora&logoColor=white&link=https://www.quora.com/profile/Aarav-Bundela)](https://www.quora.com/profile/Aarav-Bundela)
 [![Telegram](https://img.shields.io/badge/-Ab20zip-26a5e4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ab20zip)](https://t.me/Ab20zip)
 [![X](https://img.shields.io/badge/-Ab20zip-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/Ab20zip)](https://x.com/Ab20zip)
 [![Guilded](https://img.shields.io/badge/-Ab20zip-f5c400?style=flat-square&logo=guilded&logoColor=white&link=https://www.guilded.gg/u/Ab20zip)](https://www.guilded.gg/u/Ab20zip)
+[![Threads](https://img.shields.io/badge/-Ab20zip-e1306c?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@Ab20zip)](https://www.threads.net/@Ab20zip)
 
 #### 📹 কন্টেন্ট ক্রিয়েশন
 [![YouTube](https://img.shields.io/badge/-@Ab20zip-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Ab20zip?sub_confirmation=1)](https://www.youtube.com/@Ab20zip?sub_confirmation=1)
