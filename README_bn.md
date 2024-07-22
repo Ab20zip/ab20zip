@@ -44,6 +44,7 @@
 [![Telegram](https://img.shields.io/badge/-Ab20zip-26a5e4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ab20zip)](https://t.me/Ab20zip)
 [![X](https://img.shields.io/badge/-Ab20zip-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/Ab20zip)](https://x.com/Ab20zip)
 [![Guilded](https://img.shields.io/badge/-Ab20zip-f5c400?style=flat-square&logo=guilded&logoColor=white&link=https://www.guilded.gg/u/Ab20zip)](https://www.guilded.gg/u/Ab20zip)
+[![Snapchat](https://img.shields.io/badge/-Ab20zip-fffc00?style=flat-square&logo=snapchat&logoColor=black&link=https://www.snapchat.com/add/Ab20zip)](https://www.snapchat.com/add/Ab20zip)
 [![Threads](https://img.shields.io/badge/-Ab20zip-e1306c?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@Ab20zip)](https://www.threads.net/@Ab20zip)
 
 #### 📹 কন্টেন্ট ক্রিয়েশন
