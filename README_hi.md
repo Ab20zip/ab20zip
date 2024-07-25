@@ -122,7 +122,7 @@
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=Nx4R6fudwvk"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/Nx4R6fudwvk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Nx4R6fudwvk">Survival world tour part 2 / Nether and more</a><br/>Jul 23, 2024</td>
+<td><a href="https://www.youtube.com/watch?v=Nx4R6fudwvk">Survival world tour part 2 / Nether and more</a><br/>Jul 25, 2024</td>
 </tr>
 </table>
 
