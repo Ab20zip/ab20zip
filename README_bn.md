@@ -121,6 +121,13 @@
 <!-- YOUTUBE:START -->
 <table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=1ELGT1dIzgE"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/1ELGT1dIzgE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1ELGT1dIzgE">Hill Climb Racing Part 1</a><br/>Aug 4, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=Nx4R6fudwvk"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/Nx4R6fudwvk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nx4R6fudwvk">Survival world tour part 2 / Nether and more</a><br/>Jul 25, 2024</td>
 </tr>
@@ -144,13 +151,6 @@
 <tr>
 <td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/zR3nFfcIrKg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zR3nFfcIrKg">They hackusated me | Ab20zipYT</a><br/>Aug 6, 2021</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/YSYqIiExAOM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YSYqIiExAOM">Uncut bedwars</a><br/>Jul 21, 2021</td>
 </tr>
 </table>
 <!-- YOUTUBE:END -->
