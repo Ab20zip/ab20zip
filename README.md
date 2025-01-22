@@ -10,7 +10,7 @@ View in [हिंदी](./README_hi.md) | [বাংলা](./README_bn.md)
 
 - 🧑🏽‍💻 My real name is Aarav Bundela (pronounced like Aah-rahv Boon-day-la).
 
-- 🇮🇳 I’m a 16-year-old developer from India. 🟧⬜🟩
+- 🇮🇳 I’m a 17-year-old developer from India. 🟧⬜🟩
 
 - ❤️ I love working with Kotlin, Java, JavaScript, TypeScript, and PHP.
 
