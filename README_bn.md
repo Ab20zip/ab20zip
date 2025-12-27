@@ -121,6 +121,13 @@
 <!-- YOUTUBE:START -->
 <table>
 <tr>
+<td><a href="https://www.youtube.com/shorts/69xdzRw-sP4"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/69xdzRw-sP4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/69xdzRw-sP4">GEMINI VS CHATGPT RIVALRY ☠️☠️ #chatgpt #gemini</a><br/>Dec 27, 2025</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=sn30AVbGOBE"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/sn30AVbGOBE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sn30AVbGOBE">MINI MILITIA DA2 DUAL BLACK OPS CRATE OPENING EXPERIENCE NEW 2026 LOOT + UPGRADING WEAPONS 😎🔥</a><br/>Dec 21, 2025</td>
 </tr>
@@ -144,13 +151,6 @@
 <tr>
 <td><a href="https://www.youtube.com/watch?v=iORaSncqBPY"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/iORaSncqBPY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iORaSncqBPY">Indian Independence Day Special ❤️</a><br/>Aug 15, 2024</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><a href="https://www.youtube.com/watch?v=1ELGT1dIzgE"><img alt="YouTube Video Thumbnail" width="160px" src="https://i.ytimg.com/vi/1ELGT1dIzgE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ELGT1dIzgE">Hill Climb Racing Part 1</a><br/>Aug 4, 2024</td>
 </tr>
 </table>
 <!-- YOUTUBE:END -->
